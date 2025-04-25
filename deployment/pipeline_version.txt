@@ -1,0 +1,4 @@
+Model: Logistic Regression + ADASYN
+Preprocessing: StandardScaler & OneHotEncoder
+Threshold: 0.43
+Version: 1.0
