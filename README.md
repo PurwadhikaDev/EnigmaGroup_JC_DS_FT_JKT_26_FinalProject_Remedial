@@ -31,7 +31,7 @@ Dashboard ini menampilkan segmentasi pelanggan berdasarkan tingkat risiko churn,
 Dashboard ini menyajikan analisis mendalam tentang faktor-faktor yang mempengaruhi churn pelanggan, termasuk visualisasi kontribusi setiap fitur terhadap prediksi churn.
 
 Dashboard Tableau lengkap dapat diakses melalui link berikut:
-[IndoHome Churn Analysis Dashboard](https://public.tableau.com/app/profile/username/viz/IndoHomeChurnAnalysis/Dashboard)
+[IndoHome Churn Analysis Dashboard](https://public.tableau.com/views/IndoHomeChurnAnalysisDashboard/Dashboard1-ExecutiveOverview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Link Halaman Streamlit
 
