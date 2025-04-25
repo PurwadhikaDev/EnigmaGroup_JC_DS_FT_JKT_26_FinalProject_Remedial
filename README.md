@@ -2,7 +2,7 @@
 
 ## Deskripsi Proyek
 
-Proyek ini bertujuan untuk mengembangkan model prediksi churn pelanggan untuk layanan telekomunikasi IndoHome. Dengan menggunakan teknik machine learning dan analisis data, kami mengidentifikasi faktor-faktor yang mempengaruhi churn pelanggan dan membangun model prediktif untuk mengidentifikasi pelanggan yang berisiko berhenti berlangganan.
+Proyek ini bertujuan untuk mengembangkan model prediksi churn pelanggan untuk layanan telekomunikasi IndoHome. Dengan menggunakan teknik machine learning dan analisis data, Saya mengidentifikasi faktor-faktor yang mempengaruhi churn pelanggan dan membangun model prediktif untuk mengidentifikasi pelanggan yang berisiko berhenti berlangganan.
 
 IndoHome, sebagai penyedia layanan fixed broadband, menghadapi tantangan dalam mempertahankan pelanggan di tengah persaingan industri telekomunikasi yang semakin ketat. Tingkat churn yang tinggi berdampak signifikan terhadap pendapatan dan pertumbuhan bisnis. Proyek ini dikembangkan untuk membantu tim pemasaran dan manajemen pelanggan dalam mengidentifikasi pelanggan berisiko tinggi dan mengimplementasikan strategi retensi yang efektif.
 
@@ -147,7 +147,7 @@ imbalanced-learn
 ## Penjelasan Evaluasi dan Model
 
 ### Metrik Evaluasi
-Kami menggunakan beberapa metrik untuk mengevaluasi performa model:
+Saya menggunakan beberapa metrik untuk mengevaluasi performa model:
 
 - **F2-score**: Metrik utama yang memberikan bobot lebih pada recall dibandingkan precision, sesuai dengan kebutuhan bisnis untuk meminimalkan false negative (pelanggan churn yang tidak terdeteksi)
 - **Recall**: Mengukur kemampuan model untuk mendeteksi pelanggan yang benar-benar churn
