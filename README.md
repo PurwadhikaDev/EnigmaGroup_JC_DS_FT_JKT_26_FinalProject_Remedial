@@ -32,6 +32,7 @@ Dashboard ini menyajikan analisis mendalam tentang faktor-faktor yang mempengaru
 
 Dashboard Tableau lengkap dapat diakses melalui link berikut:
 [IndoHome Churn Analysis Dashboard](https://public.tableau.com/views/IndoHomeChurnAnalysisDashboard/Dashboard1-ExecutiveOverview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+https://public.tableau.com/views/IndoHomeChurnAnalysisDashboard/Dashboard1-ExecutiveOverview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Link Halaman Streamlit
 
